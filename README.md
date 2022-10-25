@@ -22,6 +22,7 @@
 $ npm install -g serverless
 ```
 
+
 ### 2. 配置
 
 以下是 `multi-scf` 组件的 `serverless.yml` 配置示例：
